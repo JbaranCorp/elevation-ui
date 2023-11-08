@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "coming-soon"
+# theme = "ananke"
+[params]
+    title = "First jbaran's LKE Cluster" 
+    description = "My first Linode Kubernetes Engine Cluster"
+    message = "Hello World" # default is "COMING SOON" 
+    release = "Jun 9, 2137 04:20" # release date format: Aug 30, 2023 15:00
+    background = "" # default is bg.mp4 in static/
